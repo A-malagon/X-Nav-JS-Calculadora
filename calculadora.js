@@ -4,7 +4,7 @@ var primero = false;
 var suma = false;
 var resta = false;
 var multiplicacion = false;
-
+ 
 function convBinario(entero){
 var numero = entero;  
 var binario=""; 
